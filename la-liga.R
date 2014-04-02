@@ -11,7 +11,7 @@ cat("Stan version: ",stan_version(),"\n")
 # laliga$AwayGoals
 
 set.seed(12345)
-load("~/Downloads//rasmus_baath_user_13_data_analysis_contest//laliga.RData")
+load("laliga.RData")
 # 1 for positive no.
 # 0 for zero number
 # -1 for negative number
